@@ -17,5 +17,5 @@
 
 # Aplicação Flask para colocar o modelo em produção
 A aplicação Flask foi construida utilizando arquivos html para servir de front-end e realizar a captura dos dados do usuário. Com isso, tem-se o botão para realizar a predição e o resultadoaparece na tela. O modelo utilizado é o modelo encontrado durante o treinamento e que obteve os melhores resultados e foi salvo no formato .pkl. A aplicação final pode ser visualizada nas imagens abaixo.
-![imagem16](https://github.com/vitorccmanso/mlproject/assets/129124026/481afc01-0e51-433a-a124-1740577693bc)
+![imagem16](https://github.com/vitorccmanso/Inidicador-de-performance-de-estudantes/assets/129124026/7a8f2639-6b65-4b15-98b4-439cccf3ebde)
 ![imagem17](https://github.com/vitorccmanso/mlproject/assets/129124026/6897cb10-12e4-4689-89cd-8be142159f62)
